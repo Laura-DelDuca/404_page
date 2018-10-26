@@ -1,0 +1,51 @@
+body {
+    background-color: yellowgreen;
+}
+
+#main {
+    display:flex;
+    justify-content: space-between;
+}
+
+
+.container_text1 {
+    text-align: center;
+    
+}
+
+#error {
+    font-size: 150px;
+    color: green;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+#error:hover {
+    color: darkred;
+}
+
+#sorry {
+    font-style: italic;
+    font-size: 25px;
+    color: green;
+    margin-left: 100px;
+}
+
+#lost:hover {
+    color: yellowgreen;
+}
+
+#NoWay {
+    font-size: 70px;
+    color: green;
+}
+
+#right {
+    margin-right: 150px;
+    
+}
+
+#github {
+    color: blanchedalmond;
+    text-align: center
+}
